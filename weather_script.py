@@ -25,4 +25,4 @@ def main():
         print("Failed to retrieve weather data")
 
 if __name__ == "__main__":
-    main()
+    main() 
