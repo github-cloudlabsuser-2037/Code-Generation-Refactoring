@@ -12,7 +12,7 @@ def division(a, b):
         return "Error: División por cero"
     return a / b
 
-def calculadora():
+def calculator():
     print("Seleccione la operación:")
     print("1. Suma")
     print("2. Resta")
@@ -37,4 +37,4 @@ def calculadora():
         print("Opción no válida")
 
 if __name__ == "__main__":
-    calculadora()
+    calculator()
